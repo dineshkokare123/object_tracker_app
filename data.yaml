@@ -1,0 +1,11 @@
+# New data.yaml content:
+
+# Use the ABSOLUTE path to your dataset root folder (where 'images' and 'labels' are)
+path: /Users/dineshkokare/Documents/Project/object_tracker_app/yolo_data 
+
+# Training and Validation image directories (relative to the ABSOLUTE path above)
+train: images/train  
+val: images/val      
+
+nc: 2
+names: ['car', 'person']

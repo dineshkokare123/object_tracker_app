@@ -1,0 +1,14 @@
+{
+    "operations": [
+        {
+            "op_name": "/model.2/m.0/Add", 
+            "param_target": "input",
+            "replace_parameters": {
+                "input_0": {
+                    "shape": [1, 16, 160, 160],
+                    "dtype": "float32"
+                }
+            }
+        }
+    ]
+}
