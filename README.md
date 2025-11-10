@@ -59,7 +59,7 @@ _analyzeTransformations(): This is the heart of the tracking algorithm. It uses 
 
 | Real-Time Detection | Object Tracking 
 <img width="345" height="698" alt="IMG_5314" src="https://github.com/user-attachments/assets/dd320141-9baf-489f-b315-90657a98f1b7" />
-<img width="345" height="698" alt="IMG_5313" src="https://github.com/user-attachments/assets/1534a17f-1dfb-4d23-8237-53f7d53b4258" />
+
 
 
 
