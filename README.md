@@ -54,3 +54,12 @@ _initializeDetector(): Sets up the ObjectDetector in stream mode with multipleOb
 _processCameraImage(): Manages the continuous feed from the camera, performs the platform-specific byte handling, and calls _objectDetector.processImage().
 
 _analyzeTransformations(): This is the heart of the tracking algorithm. It uses the object's historical center and size data to calculate its current status (Moving, Scaling, or Static) based on set thresholds.
+
+## Screenshots
+
+| Real-Time Detection | Object Tracking 
+<img width="645" height="1398" alt="IMG_5314" src="https://github.com/user-attachments/assets/dd320141-9baf-489f-b315-90657a98f1b7" />
+|<img width="645" height="1398" alt="IMG_5313" src="https://github.com/user-attachments/assets/1534a17f-1dfb-4d23-8237-53f7d53b4258" />
+
+| :---: | :---: |
+
