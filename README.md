@@ -32,8 +32,8 @@ Project Steps
 Clone the Repository:
 
 Bash
-git clone https://github.com/<YOUR_USERNAME>/<REPO_NAME>.git
-cd <REPO_NAME>
+git clone https://github.com/dineshkokare123/object_tracker_app/tree/main
+cd object_tracker_app
 Get Dependencies:
 
 Bash
